@@ -1,0 +1,1 @@
+[{"product_id":101,"title":"pencil","price":7,"category":["stationary"],"company_id":"c101","seller_id":["s101","s201"]},{"product_id":102,"title":"pen","price":15,"category":["stationary"],"company_id":"c102","seller_id":["s102","s202"]},{"product_id":104,"title":"crayons","price":120,"category":["stationary"],"company_id":"c104","seller_id":["s104","s101"]}]
